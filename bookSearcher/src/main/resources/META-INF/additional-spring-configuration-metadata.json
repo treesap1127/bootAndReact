@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "data.mongodb.host",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.host'"
+  },
+  {
+    "name": "server.context-path",
+    "type": "java.lang.String",
+    "description": "A description for 'server.context-path'"
+  },
+  {
+    "name": "data.mongodb.port",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.port'"
+  },
+  {
+    "name": "data.mongodb.username",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.username'"
+  },
+  {
+    "name": "data.mongodb.password",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.password'"
+  },
+  {
+    "name": "data.mongodb.database",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.database'"
+  },
+  {
+    "name": "data.mongodb.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'data.mongodb.uri'"
+  }
+]}
